@@ -8,8 +8,8 @@ function Home() {
   
     return (
         <>
-        <div className="bg-black flex justify-center">
-          <div className='container grid grid-cols-2 text-white'>
+        <div className="bg-white flex justify-center">
+          <div className='container grid grid-cols-2 text-black'>
             <div className="flex flex-col gap-4 items-center justify-center py-4">
               <h2 className='text-5xl font-bold'>FarMelhor!</h2>
               <div className=" py-4">

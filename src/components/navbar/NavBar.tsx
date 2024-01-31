@@ -9,7 +9,7 @@ function Navbar() {
             <div className="container flex justify-between text-lg">
                 <div className='text-2xl font-bold uppercase'> 
                 <Link to="/">
-                    <img src={iconefarma} alt="" width="50" />
+                    <img src={iconefarma} alt="" width="45" />
                 </Link>
                 </div>
                 <div className='flex gap-4'>
