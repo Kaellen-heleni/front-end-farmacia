@@ -5,7 +5,7 @@ import React, { useContext } from 'react'
 function Footer() {
     return(
       <>
-        <div className="flex justify-center bg-red-900 text-white">
+        <div className="flex justify-center bg-black text-white">
           <div className="container flex flex-col items-center py-1">
             <p className='text-xl font-bold'> FarMelhor | Copyright:</p>
             <p className='text-lg'>Confira o projeto completo: </p>
